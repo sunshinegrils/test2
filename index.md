@@ -6,9 +6,11 @@
 	<style type="text/css">
 	.p1{
 		background:green;
+		font: black;
 	}
 	.p2{
 		background:red;
+		font: black;
 	}
 	</style>
 </head>
